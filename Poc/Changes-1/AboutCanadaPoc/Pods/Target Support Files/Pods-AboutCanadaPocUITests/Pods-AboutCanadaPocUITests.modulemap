@@ -1,0 +1,6 @@
+framework module Pods_AboutCanadaPocUITests {
+  umbrella header "Pods-AboutCanadaPocUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
